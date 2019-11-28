@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edcc3f5a-fd3b-47f9-be57-b411b1a8ead5" name="Default" comment="" />
+    <ignored path="TestApp_yaml.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TestApp_yaml$Cm_Test.coverage" NAME="Cm-Test Coverage Results" MODIFIED="1517830398484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/UI_Test$readConfig__1_.coverage" NAME="readConfig (1) Coverage Results" MODIFIED="1565690878169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Test$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1565690789846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$Operate.coverage" NAME="Operate Coverage Results" MODIFIED="1517813569382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$111.coverage" NAME="111 Coverage Results" MODIFIED="1517832044711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$CmAddcmPage.coverage" NAME="CmAddcmPage Coverage Results" MODIFIED="1517828949226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/cm" />
+    <SUITE FILE_PATH="coverage/UI_Test$firstEnterPage.coverage" NAME="firstEnterPage Coverage Results" MODIFIED="1566551142986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$GetDevices.coverage" NAME="GetDevices Coverage Results" MODIFIED="1517637167238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/UI_Test$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1565330885852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$logs.coverage" NAME="logs Coverage Results" MODIFIED="1517821875294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/UI_Test$1.coverage" NAME="1 Coverage Results" MODIFIED="1565322814767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$Cm_AddcmPage.coverage" NAME="Cm-AddcmPage Coverage Results" MODIFIED="1517821045237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/cm" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$GetYaml.coverage" NAME="GetYaml Coverage Results" MODIFIED="1517821007814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/UI_Test$BaseOperate.coverage" NAME="BaseOperate Coverage Results" MODIFIED="1565863849335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1517832070013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$GetFilePath.coverage" NAME="GetFilePath Coverage Results" MODIFIED="1517559134237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$GetDriver.coverage" NAME="GetDriver Coverage Results" MODIFIED="1517638498965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/TestApp_yaml$StartAppiumServer.coverage" NAME="StartAppiumServer Coverage Results" MODIFIED="1517564080994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/UI_Test$StartAppiumServer.coverage" NAME="StartAppiumServer Coverage Results" MODIFIED="1565859483531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习/appium/Test_APP_YAML-master/public" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestApp_yaml" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/webDriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runSmoke.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+              <folding>
+                <element signature="e#113#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testSmoke/test_start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#97#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comm/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageElement/base_element_operate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2317">
+              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+              <folding>
+                <element signature="e#106#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>换台</find>
+      <find>观看历史</find>
+      <find>click_play_float_button</find>
+      <find>update</find>
+      <find>clear_watch_history</find>
+      <find>self.driver</find>
+      <find>def close_upgrade(self):</find>
+      <find>from pageElement.base_element_oprate</find>
+      <find>get_deviceName</find>
+      <find>unittest.TestCase</find>
+      <find>_01_mine_page</find>
+      <find>__init__()</find>
+      <find>homepage.</find>
+      <find>mydriver</find>
+      <find>com.android.packageinstaller:id/permission_allow_button</find>
+      <find>print</find>
+      <find>点击始终允许按钮</find>
+      <find>btn_start_experience</find>
+      <find>android:id/button1Message</find>
+      <find>permission_allow_button</find>
+      <find>time.sleep</find>
+      <find>splash_tv_title</find>
+      <find>app_path</find>
+      <find>11111111111111111</find>
+      <find>self.self.driver</find>
+      <find>driver.</find>
+      <find>base.</find>
+      <find>list_home_tabs</find>
+      <find>driver,</find>
+      <find>path</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>print(</replace>
+      <replace>checkDevices</replace>
+      <replace>get_config</replace>
+      <replace>Logger()</replace>
+      <replace>bottom_navigation_button(&quot;我的&quot;)</replace>
+      <replace>icon</replace>
+      <replace>delayed_get_element</replace>
+      <replace>log</replace>
+      <replace>time.sleep</replace>
+      <replace>common.delayed_get_element</replace>
+      <replace>*[@text=</replace>
+      <replace>, (</replace>
+      <replace>,</replace>
+      <replace>delayed_get_element(driver,</replace>
+      <replace>switch_attributes</replace>
+      <replace>driver</replace>
+      <replace>from pageElement.base_element_operate</replace>
+      <replace>homepage(self.driver).</replace>
+      <replace>get_driver</replace>
+      <replace />
+      <replace>self.driver</replace>
+      <replace>self.driver.</replace>
+      <replace>base(self.driver).</replace>
+      <replace>self.driver,</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\UI-Test</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pengjuan &lt;pengjuan@starschina.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testYaml/cibn001_firstEnter.yaml" />
+        <option value="$PROJECT_DIR$/page/11.py" />
+        <option value="$PROJECT_DIR$/page/firstEnterPage.py" />
+        <option value="D:/学习/appium/框架Demo/Test_APP_YAML-master/testcase/CmTest.py" />
+        <option value="$PROJECT_DIR$/common/StartAppiumServer.py" />
+        <option value="$PROJECT_DIR$/common/GetDriver.py" />
+        <option value="$PROJECT_DIR$/testCase/test_firstEnterPage.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/comm/readConfig.py" />
+        <option value="$PROJECT_DIR$/logs/cibn20190903.log" />
+        <option value="$PROJECT_DIR$/comm/stopAppiumServer.bat" />
+        <option value="$PROJECT_DIR$/comm/startAppiumServer.bat" />
+        <option value="$PROJECT_DIR$/testCase/test_fisrtEnterPage.py" />
+        <option value="$PROJECT_DIR$/comm/GetDriver.py" />
+        <option value="$PROJECT_DIR$/logs/cibn20190904.log" />
+        <option value="$PROJECT_DIR$/comm/GetDevices.py" />
+        <option value="$PROJECT_DIR$/pageElement/firstEnterPage.py" />
+        <option value="$PROJECT_DIR$/testCase/test_checkin.py" />
+        <option value="$PROJECT_DIR$/comm/configEmail.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_checkin.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_tag.py" />
+        <option value="$PROJECT_DIR$/comm/StartAppiumServer.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/pageElement/loginPage.py" />
+        <option value="$PROJECT_DIR$/pageElement/feedbackPage.py" />
+        <option value="$PROJECT_DIR$/testCase/pageCheck/mine/test_checkin.py" />
+        <option value="$PROJECT_DIR$/pageElement/checkInPage.py" />
+        <option value="$PROJECT_DIR$/comm/common.py" />
+        <option value="$PROJECT_DIR$/pageElement/base_element_oprate.py" />
+        <option value="$PROJECT_DIR$/pageElement/homePage.py" />
+        <option value="$PROJECT_DIR$/testCase/test_login.py" />
+        <option value="$PROJECT_DIR$/logs/cibn20191125.log" />
+        <option value="$PROJECT_DIR$/comm/Log.py" />
+        <option value="$PROJECT_DIR$/runAll.py" />
+        <option value="$PROJECT_DIR$/testSmoke/pageRefresh/test_home_icon.py" />
+        <option value="$PROJECT_DIR$/testSmoke/pageRefresh/test_steam_tab.py" />
+        <option value="$PROJECT_DIR$/caseList.txt" />
+        <option value="$PROJECT_DIR$/runset.py" />
+        <option value="$PROJECT_DIR$/comm/HTMLTestRunner_cn.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_stream.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_mine.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_vip.py" />
+        <option value="$PROJECT_DIR$/pageElement/base_element_operate.py" />
+        <option value="$PROJECT_DIR$/comm/webDriver.py" />
+        <option value="$PROJECT_DIR$/comm/config.ini" />
+        <option value="$PROJECT_DIR$/testSmoke/test_tab.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_steam_tab.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_home_icon.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_start.py" />
+        <option value="$PROJECT_DIR$/testSmoke/test_video.py" />
+        <option value="$PROJECT_DIR$/runSmoke.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UI-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="comm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UI-Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UI-Test" type="462c0819:PsiDirectoryNode" />
+              <item name="testSmoke" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testSmoke" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\UI-Test\testSmoke" />
+      <recent name="E:\UI-Test\testSmoke\ims" />
+      <recent name="E:\UI-Test" />
+      <recent name="E:\UI-Test\comm" />
+      <recent name="E:\UI-Test\comm\apps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\UI-Test\testSmoke" />
+      <recent name="E:\UI-Test\testSmoke\pageRefresh" />
+      <recent name="E:\UI-Test\testCase\pageCheck\mine" />
+      <recent name="E:\UI-Test\testCase\pageCheck" />
+      <recent name="E:\UI-Test\comm" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_tab.Home_tab">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TestApp_yaml" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="runSmoke" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runSmoke.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\krouk\PycharmProjects\untitled1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\UI-Test\run_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_home_icon.Home_icon" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testSmoke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_home_icon.Home_icon&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_steam_tab.Stream_tab" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testSmoke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_steam_tab.Stream_tab&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_tab.Home_tab" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testSmoke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tab.Home_tab&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in UI-Test" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python 3.7.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_home_icon.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UI-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testSmoke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testSmoke/test_home_icon.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runSmoke" />
+      <item itemvalue="Python tests.Unittests in UI-Test" />
+      <item itemvalue="Python tests.Unittests for test_home_icon.Home_icon" />
+      <item itemvalue="Python tests.Unittests for test_steam_tab.Stream_tab" />
+      <item itemvalue="Python tests.Unittests in test_home_icon.py" />
+      <item itemvalue="Python tests.Unittests for test_tab.Home_tab" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_tab.Home_tab" />
+        <item itemvalue="Python tests.Unittests for test_home_icon.Home_icon" />
+        <item itemvalue="Python tests.Unittests in test_home_icon.py" />
+        <item itemvalue="Python.runSmoke" />
+        <item itemvalue="Python tests.Unittests for test_steam_tab.Stream_tab" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edcc3f5a-fd3b-47f9-be57-b411b1a8ead5" name="Default" comment="" />
+      <created>1517553164681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517553164681</updated>
+      <workItem from="1565253558697" duration="3365000" />
+      <workItem from="1565596830319" duration="4845000" />
+      <workItem from="1565833344205" duration="21608000" />
+      <workItem from="1566178952352" duration="608000" />
+      <workItem from="1566265187739" duration="599000" />
+      <workItem from="1566352913224" duration="597000" />
+      <workItem from="1566437349329" duration="18315000" />
+      <workItem from="1566872241640" duration="1290000" />
+      <workItem from="1566960673248" duration="992000" />
+      <workItem from="1567406397146" duration="49457000" />
+      <workItem from="1567579388577" duration="3877000" />
+      <workItem from="1567584560796" duration="46460000" />
+      <workItem from="1568251749243" duration="59588000" />
+      <workItem from="1568854758441" duration="1724000" />
+      <workItem from="1568963879152" duration="599000" />
+      <workItem from="1568966125636" duration="1444000" />
+      <workItem from="1568968218102" duration="599000" />
+      <workItem from="1569201082458" duration="1272000" />
+      <workItem from="1569202988997" duration="92334000" />
+      <workItem from="1570537751542" duration="2042000" />
+      <workItem from="1570671244915" duration="34270000" />
+      <workItem from="1571206245788" duration="369000" />
+      <workItem from="1571207179595" duration="4391000" />
+      <workItem from="1571215819430" duration="26477000" />
+      <workItem from="1571382169701" duration="55000" />
+      <workItem from="1571382249590" duration="5760000" />
+      <workItem from="1571732590619" duration="10918000" />
+      <workItem from="1571879932073" duration="18693000" />
+      <workItem from="1572226654036" duration="19568000" />
+      <workItem from="1573005151494" duration="51136000" />
+      <workItem from="1573779966083" duration="45468000" />
+      <workItem from="1574409595684" duration="62625000" />
+      <workItem from="1574908082809" duration="10182000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交UI-Test框架结构">
+      <created>1565691490102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565691490103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交UI-Test框架结构">
+      <created>1565865434311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565865434312</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交UI脚本和框架">
+      <created>1565952242272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565952242272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交yaml文件">
+      <created>1565952348080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565952348080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交多个新增文件">
+      <created>1566872581791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566872581791</updated>
+    </task>
+    <task id="LOCAL-00006" summary="优化代码">
+      <created>1567412145543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567412145544</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.解决log日志乱码的问题&#10;2.解决自启动appium服务的问题">
+      <created>1567588732395</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567588732395</updated>
+    </task>
+    <task id="LOCAL-00008" summary="优化代码">
+      <created>1567589094447</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567589094447</updated>
+    </task>
+    <task id="LOCAL-00009" summary="优化代码">
+      <created>1567590288334</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567590288334</updated>
+    </task>
+    <task id="LOCAL-00010" summary="增加基础的元素和操作模块">
+      <created>1567653333170</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567653333170</updated>
+    </task>
+    <task id="LOCAL-00011" summary="换成8.0.8版本">
+      <created>1567653397454</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567653397454</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改comm文件夹下的内容">
+      <created>1568606220312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568606220312</updated>
+    </task>
+    <task id="LOCAL-00013" summary="提交冒烟的测试用例">
+      <created>1568606274802</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568606274802</updated>
+    </task>
+    <task id="LOCAL-00014" summary="提交页面类">
+      <created>1568606393591</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568606393591</updated>
+    </task>
+    <task id="LOCAL-00015" summary="根据bugtags上手机电视的基线测试用例对case文件夹做了整理">
+      <created>1568606494058</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568606494058</updated>
+    </task>
+    <task id="LOCAL-00016" summary="签到功能属于我的页面">
+      <created>1568613187504</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568613187504</updated>
+    </task>
+    <task id="LOCAL-00017" summary="提交签到功能">
+      <created>1568617144268</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568617144268</updated>
+    </task>
+    <task id="LOCAL-00018" summary="修改comm中的基础函数">
+      <created>1568715039649</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1568715039650</updated>
+    </task>
+    <task id="LOCAL-00019" summary="提交冒烟的测试用例">
+      <created>1568715089302</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568715089302</updated>
+    </task>
+    <task id="LOCAL-00020" summary="提交切换页签冒烟测试用例和相关文件">
+      <created>1569291911581</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569291911581</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1.新增切换直播页面的顶部页签&#10;2.优化切换首页页签">
+      <created>1569310404026</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1569310404026</updated>
+    </task>
+    <task id="LOCAL-00022" summary="优化公共函数">
+      <created>1569314885768</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569314885769</updated>
+    </task>
+    <task id="LOCAL-00023" summary="优化滑动动作">
+      <created>1569314921357</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569314921357</updated>
+    </task>
+    <task id="LOCAL-00024" summary="优化driver启动">
+      <created>1569314996100</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569314996100</updated>
+    </task>
+    <task id="LOCAL-00025" summary="更新8.1.0的包">
+      <created>1569315042708</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1569315042708</updated>
+    </task>
+    <task id="LOCAL-00026" summary="完善升级测试用例">
+      <created>1569414913358</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1569414913358</updated>
+    </task>
+    <task id="LOCAL-00027" summary="新增首页-推荐-icon切换的测试用例">
+      <created>1569417919052</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1569417919052</updated>
+    </task>
+    <task id="LOCAL-00028" summary="更新8.1.1的包，验证页面刷新">
+      <created>1569744479756</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1569744479757</updated>
+    </task>
+    <task id="LOCAL-00029" summary="修改login">
+      <created>1570674799965</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1570674799965</updated>
+    </task>
+    <task id="LOCAL-00030" summary="1.修改common中的滑动函数&#10;2.添加在首页播放CCTV1的函数&#10;3.提交stream测试用例&#10;4.删除tab中注掉的测试用例">
+      <created>1570675324731</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1570675324731</updated>
+    </task>
+    <task id="LOCAL-00031" summary="修改swipeDown">
+      <created>1570675526737</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1570675526737</updated>
+    </task>
+    <task id="LOCAL-00032" summary="1.全局修改了延时等待页面元素出现的函数&#10;2.增加优化了stars_app,login等函数">
+      <created>1571367311663</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1571367311663</updated>
+    </task>
+    <task id="LOCAL-00033" summary="修改 delayed_get_element">
+      <created>1571367616212</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1571367616212</updated>
+    </task>
+    <task id="LOCAL-00034" summary="1.delayed_get_element,返回的元素要返回出去才能用&#10;2.之前的电话号码不能用了，先改成dongyani的">
+      <created>1571734406708</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1571734406709</updated>
+    </task>
+    <task id="LOCAL-00035" summary="改成真机调试">
+      <created>1571822177139</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1571822177140</updated>
+    </task>
+    <task id="LOCAL-00036" summary="1.common，添加点击页面坐标函数&#10;2.base,添加关闭青少年模式和点击全屏播放浮层按钮的函数&#10;3.homepage,添加点播页面操作函数&#10;4.test_video,点播冒烟case">
+      <created>1573474657082</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1573474657082</updated>
+    </task>
+    <task id="LOCAL-00037" summary="提交直播测试用例，和点播有交互的也一同提交了">
+      <created>1574391857098</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1574391857098</updated>
+    </task>
+    <task id="LOCAL-00038" summary="优化代码">
+      <created>1574409138066</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1574409138066</updated>
+    </task>
+    <task id="LOCAL-00039" summary="修改了base的文件名，引用的地方都同步一下">
+      <created>1574645539686</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1574645539686</updated>
+    </task>
+    <task id="LOCAL-00040" summary="解决不能全跑的问题，把初始化driver放到用例加载之后，把driver当成test文件的类变量">
+      <created>1574927021010</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1574927021010</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_stream_Stream - 2019.11.27 at 11h 04m 01s.xml">
+      <configuration name="Unittests for test_stream.Stream" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_stream_Stream - 2019.11.27 at 11h 30m 21s.xml">
+      <configuration name="Unittests for test_stream.Stream" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_home_icon_Home_icon - 2019.11.28 at 15h 29m 51s.xml">
+      <configuration name="Unittests for test_home_icon.Home_icon" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_home_icon_Home_icon - 2019.11.28 at 15h 31m 26s.xml">
+      <configuration name="Unittests for test_home_icon.Home_icon" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_home_icon_Home_icon - 2019.11.28 at 15h 32m 53s.xml">
+      <configuration name="Unittests for test_home_icon.Home_icon" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_steam_tab_Stream_tab - 2019.11.28 at 15h 34m 22s.xml">
+      <configuration name="Unittests for test_steam_tab.Stream_tab" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_steam_tab_Stream_tab - 2019.11.28 at 15h 34m 33s.xml">
+      <configuration name="Unittests for test_steam_tab.Stream_tab" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_home_icon_py - 2019.11.28 at 15h 36m 07s.xml">
+      <configuration name="Unittests in test_home_icon.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_home_icon_Home_icon - 2019.11.28 at 15h 36m 44s.xml">
+      <configuration name="Unittests for test_home_icon.Home_icon" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_tab_Home_tab - 2019.11.28 at 15h 36m 54s.xml">
+      <configuration name="Unittests for test_tab.Home_tab" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="602794000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32711306" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.39479393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39370933" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19739696" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.37852496" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.31019524" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="签到功能属于我的页面" />
+    <MESSAGE value="提交签到功能" />
+    <MESSAGE value="修改comm中的基础函数" />
+    <MESSAGE value="提交冒烟的测试用例" />
+    <MESSAGE value="提交切换页签冒烟测试用例和相关文件" />
+    <MESSAGE value="1.新增切换直播页面的顶部页签&#10;2.优化切换首页页签" />
+    <MESSAGE value="优化公共函数" />
+    <MESSAGE value="优化滑动动作" />
+    <MESSAGE value="优化driver启动" />
+    <MESSAGE value="更新8.1.0的包" />
+    <MESSAGE value="完善升级测试用例" />
+    <MESSAGE value="新增首页-推荐-icon切换的测试用例" />
+    <MESSAGE value="更新8.1.1的包，验证页面刷新" />
+    <MESSAGE value="修改login" />
+    <MESSAGE value="1.修改common中的滑动函数&#10;2.添加在首页播放CCTV1的函数&#10;3.提交stream测试用例&#10;4.删除tab中注掉的测试用例" />
+    <MESSAGE value="修改swipeDown" />
+    <MESSAGE value="1.全局修改了延时等待页面元素出现的函数&#10;2.增加优化了stars_app,login等函数" />
+    <MESSAGE value="修改 delayed_get_element" />
+    <MESSAGE value="1.delayed_get_element,返回的元素要返回出去才能用&#10;2.之前的电话号码不能用了，先改成dongyani的" />
+    <MESSAGE value="改成真机调试" />
+    <MESSAGE value="1.common，添加点击页面坐标函数&#10;2.base,添加关闭青少年模式和点击全屏播放浮层按钮的函数&#10;3.homepage,添加点播页面操作函数&#10;4.test_video,点播冒烟case" />
+    <MESSAGE value="提交直播测试用例，和点播有交互的也一同提交了" />
+    <MESSAGE value="优化代码" />
+    <MESSAGE value="修改了base的文件名，引用的地方都同步一下" />
+    <MESSAGE value="解决不能全跑的问题，把初始化driver放到用例加载之后，把driver当成test文件的类变量" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决不能全跑的问题，把初始化driver放到用例加载之后，把driver当成test文件的类变量" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="self._type_equality_funcs" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_start_Startup_test_01_startapp.coverage" NAME="Unittests for test_start.Startup.test_01_startapp Coverage Results" MODIFIED="1568704222952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream.coverage" NAME="Unittests for test_stream.Stream Coverage Results" MODIFIED="1574825362269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_07_switching_clarity.coverage" NAME="Unittests for test_stream.Stream.test_07_switching_clarity Coverage Results" MODIFIED="1573804297074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_video_Video_test_09_watch_history.coverage" NAME="Unittests for test_video.Video.test_09_watch_history Coverage Results" MODIFIED="1574388198939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$webDriver.coverage" NAME="webDriver Coverage Results" MODIFIED="1574739868726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_tab_Home_tab_test_03_switch_stream_tabs.coverage" NAME="Unittests for test_tab.Home_tab.test_03_switch_stream_tabs Coverage Results" MODIFIED="1569209542352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_video_Video.coverage" NAME="Unittests for test_video.Video Coverage Results" MODIFIED="1573465203552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$test.coverage" NAME="test Coverage Results" MODIFIED="1570674619265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_start_py.coverage" NAME="Unittests in test_start.py Coverage Results" MODIFIED="1568705150265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_video_Video_test_01_play_home_video.coverage" NAME="Unittests for test_video.Video.test_01_play_home_video Coverage Results" MODIFIED="1571385765008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$GetDriver.coverage" NAME="GetDriver Coverage Results" MODIFIED="1567588382682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_video_py.coverage" NAME="Unittests in test_video.py Coverage Results" MODIFIED="1571736389256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$StartAppiumServer__1_.coverage" NAME="StartAppiumServer (1) Coverage Results" MODIFIED="1567609631178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_mine_py.coverage" NAME="Unittests in test_mine.py Coverage Results" MODIFIED="1574672342140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_video_Video_test_02_full_screen.coverage" NAME="Unittests for test_video.Video.test_02_full_screen Coverage Results" MODIFIED="1571991975253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$StartAppiumServer.coverage" NAME="StartAppiumServer Coverage Results" MODIFIED="1569207997482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$test_video.coverage" NAME="test_video Coverage Results" MODIFIED="1573466732903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_12_watch_history.coverage" NAME="Unittests for test_stream.Stream.test_12_watch_history Coverage Results" MODIFIED="1574388054871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_stream_py.coverage" NAME="Unittests in test_stream.py Coverage Results" MODIFIED="1574823620248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$runSmoke.coverage" NAME="runSmoke Coverage Results" MODIFIED="1574926520079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_steam_tab_Home_tab.coverage" NAME="Unittests for test_steam_tab.Home_tab Coverage Results" MODIFIED="1569305060551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_home_icon_py.coverage" NAME="Unittests in test_home_icon.py Coverage Results" MODIFIED="1574926558653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$checkInPage.coverage" NAME="checkInPage Coverage Results" MODIFIED="1567990617933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageElement" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_03_full_screen.coverage" NAME="Unittests for test_stream.Stream.test_03_full_screen Coverage Results" MODIFIED="1574821938554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_video_Video_test_03_recommend.coverage" NAME="Unittests for test_video.Video.test_03_recommend Coverage Results" MODIFIED="1572230031924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_tab_Home_tab.coverage" NAME="Unittests for test_tab.Home_tab Coverage Results" MODIFIED="1574926607457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Log.coverage" NAME="Log Coverage Results" MODIFIED="1567478304039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$base_element_oprate.coverage" NAME="base_element_oprate Coverage Results" MODIFIED="1573006425063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pageElement" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_video_Video_test_04_switching_clarity.coverage" NAME="Unittests for test_video.Video.test_04_switching_clarity Coverage Results" MODIFIED="1573113102878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_06_reservation.coverage" NAME="Unittests for test_stream.Stream.test_06_reservation Coverage Results" MODIFIED="1574667615923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_test_Stream.coverage" NAME="Unittests for test_stream.test_Stream Coverage Results" MODIFIED="1574660830424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_01_play_home_stream.coverage" NAME="Unittests for test_stream.Stream.test_01_play_home_stream Coverage Results" MODIFIED="1570524704439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_08_forum.coverage" NAME="Unittests for test_stream.Stream.test_08_forum Coverage Results" MODIFIED="1574330684422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_start_Startup_test_02_upgrade.coverage" NAME="Unittests for test_start.Startup.test_02_upgrade Coverage Results" MODIFIED="1568703119987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_tab_Home_tab_test_switch_home_tabs.coverage" NAME="Unittests for test_tab.Home_tab.test_switch_home_tabs Coverage Results" MODIFIED="1569293406984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_tab_py.coverage" NAME="Unittests in test_tab.py Coverage Results" MODIFIED="1569294290749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1574664711246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_steam_tab_Stream_tab.coverage" NAME="Unittests for test_steam_tab.Stream_tab Coverage Results" MODIFIED="1574926473042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_in_test_steam_tab_py.coverage" NAME="Unittests in test_steam_tab.py Coverage Results" MODIFIED="1569308919490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_start_Startup.coverage" NAME="Unittests for test_start.Startup Coverage Results" MODIFIED="1569413721208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$common.coverage" NAME="common Coverage Results" MODIFIED="1571974617078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_home_icon_Home_icon.coverage" NAME="Unittests for test_home_icon.Home_icon Coverage Results" MODIFIED="1574926601519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+    <SUITE FILE_PATH="coverage/UI_Test$GetDevices.coverage" NAME="GetDevices Coverage Results" MODIFIED="1567583454823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm" />
+    <SUITE FILE_PATH="coverage/UI_Test$Unittests_for_test_stream_Stream_test_11_one_click_live.coverage" NAME="Unittests for test_stream.Stream.test_11_one_click_live Coverage Results" MODIFIED="1574387804111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testSmoke" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pageElement/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1832">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageElement/checkInPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/site-packages/appium/webdriver/extensions/applications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="103" column="27" selection-start-line="103" selection-start-column="27" selection-end-line="103" selection-end-column="27" />
+          <folding>
+            <element signature="e#568#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="662" selection-start-line="662" selection-end-line="662" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1624580903/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="5155" column="8" selection-start-line="5155" selection-start-column="8" selection-end-line="5155" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/site-packages/appium/webdriver/extensions/action_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageElement/base_element_oprate.py" />
+    <entry file="file://$PROJECT_DIR$/pageElement/homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#69#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="1091" selection-start-line="1091" selection-end-line="1091" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/logging/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/cibn20191125.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_feedbackPage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/report/2019_11_25_14_19_11result.html" />
+    <entry file="file://$PROJECT_DIR$/testSmoke/ims/test_stream.py" />
+    <entry file="file://$PROJECT_DIR$/comm/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#69#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_fisrtEnterPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#138#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/pageRefresh/test_steam_tab.py" />
+    <entry file="file://$PROJECT_DIR$/testSmoke/pageRefresh/test_tab.py" />
+    <entry file="file://$PROJECT_DIR$/testSmoke/pageRefresh/test_home_icon.py" />
+    <entry file="file://D:/Python 3.7.3/Lib/site-packages/Crypto/SelfTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/report/2019_11_25_16_22_23result.html" />
+    <entry file="file://$PROJECT_DIR$/testSmoke/report/2019_11_25_17_27_50result.html" />
+    <entry file="file://$PROJECT_DIR$/comm/StartAppiumServer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/site-packages/django/test/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="731" column="30" selection-start-line="731" selection-start-column="30" selection-end-line="731" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="221" column="12" lean-forward="true" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python 3.7.3/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9126">
+          <caret line="348" selection-start-line="348" selection-end-line="348" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_vip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#85#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_mine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1782">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <element signature="e#736#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageElement/base_element_operate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2317">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <element signature="e#106#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/webDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_tab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#87#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_steam_tab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="e#91#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_home_icon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#92#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comm/HTMLTestRunner_cn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="928" column="64" selection-start-line="928" selection-start-column="64" selection-end-line="928" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caseList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testSmoke/test_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#97#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runSmoke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <element signature="e#113#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
