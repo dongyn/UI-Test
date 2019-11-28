@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Test_APP_YAML
 appium的UI测试，数据与用例分离，实现yaml管理用例  
 
@@ -51,3 +52,7 @@ testcase:
 - 优化了定位元素的方法，增加等待时间
 - BaseOperate.py 文件中，增加check的分支
 - 判断元素是否存在，不存在时增加截图和日志
+=======
+# UI-Test
+手机电视UI自动化测试
+>>>>>>> 42ee059f6b4da33c5baefa56be26a1358107771b
